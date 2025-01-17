@@ -28,6 +28,12 @@
 
 - Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
+  ![Description de l'image]( images/SUPK.png)
+  
+  ![Description de l'image](images/KYL1.png)
+
+
+
 - Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
 
 ## Partie 2 : Restriction utilisateurs
