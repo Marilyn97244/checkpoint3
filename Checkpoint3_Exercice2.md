@@ -54,6 +54,10 @@
 
 - Q.2.4.1 Expliquer succinctement les rôles respectifs des 3 composants bareos installés sur la VM.
 
+   - Le Director gère les sauvegardes.
+   - Le Storage Daemon reçoit et stocke les données.
+   - Le File Daemon lit les données sauvegarder.
+
 ## Partie 5 : Filtrage et analyse réseau
 
 - Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?
