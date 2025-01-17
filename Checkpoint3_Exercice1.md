@@ -18,6 +18,14 @@
 
 - Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 
+  ![Description de l'image](images/OU1.png)
+
+  ![Description de l'image](images/OU3.png)
+
+  ![Description de l'image](images/OU5.png)
+
+
+
 - Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
 - Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.
