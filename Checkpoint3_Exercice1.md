@@ -3,6 +3,18 @@
 ## Partie 1 : Gestion des utilisateurs
 
 - Q.1.1.1 Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur.
+![Description de l'image](images/lionel.png)
+
+![Description de l'image](images/lionel1.png)
+
+![Description de l'image](images/lionel2.png)
+
+![Description de l'image](images/lionel3.png)
+
+![Description de l'image](images/lionel4.png)
+
+![Description de l'image](images/exo1.2.png)
+
 
 - Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 
